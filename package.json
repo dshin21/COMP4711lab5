@@ -1,0 +1,22 @@
+{
+  "name": "comp4711lab5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quizSQL.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshin21/COMP4711lab5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dshin21/COMP4711lab5/issues"
+  },
+  "homepage": "https://github.com/dshin21/COMP4711lab5#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
